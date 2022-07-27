@@ -12,6 +12,9 @@
 .title-color{
     color: #faa00f;
 }
+.bg-pourple{
+    background-color: #D75281;
+}
 @media (min-width:993px) {
     .acordions-width{
         width: 70%;

@@ -1,0 +1,11 @@
+.dream-colors{
+    color: #D75281;
+}
+.btn-pourple{
+    border: 2px solid #D75281;
+    background: transparent;
+}
+.btn-pourple:hover{
+    background-color: #D75281;
+    color: #fff;
+}

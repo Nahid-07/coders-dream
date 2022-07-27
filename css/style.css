@@ -12,3 +12,9 @@
 .title-color{
     color: #faa00f;
 }
+@media (min-width:993px) {
+    .acordions-width{
+        width: 70%;
+    }
+}
+

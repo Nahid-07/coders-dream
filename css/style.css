@@ -15,6 +15,16 @@
 .bg-pourple{
     background-color: #D75281;
 }
+@media (min-width:576px) {
+    .device h1{
+        font-size: 30px;
+    }
+    .device button{
+        width: 20px;
+        height: 15px;
+        font-size: 16px;
+    }
+}
 @media (min-width:993px) {
     .acordions-width{
         width: 70%;
